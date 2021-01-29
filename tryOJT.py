@@ -4,3 +4,5 @@ if OJT=='yes':
     print ("GOOD JOB")
 else:
     print ("TAKE IT")
+    print ("LEAVE IT")
+
